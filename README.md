@@ -39,6 +39,3 @@ Se você encontrar algum problema ou tiver alguma sugestão de melhoria, sinta-s
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
-```
-
-Agora você pode copiar e colar os modelos acima nos arquivos `README.md` de cada projeto e personalizá-los com informações específicas do seu projeto. Isso deve ajudá-lo a criar um README.md bem estruturado e profissional para ambos os projetos no GitHub.
